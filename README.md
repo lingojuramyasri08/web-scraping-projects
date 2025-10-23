@@ -69,4 +69,4 @@ python compare_prices.py
 ---
 
 ## **Author**
-**Ramiya Sri** 💛
+**Ramya Sri** 💛
